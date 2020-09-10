@@ -1,7 +1,7 @@
 # Locadora de Automóveis
 
 ### Software para gerenciamento de uma locadora de automóveis. 
-### Projeto desenvolvido desenvolvido para a disciplina de Programação Orientada a Objetos, da Universidade de Caxias do Sul (UCS).
+### Projeto desenvolvido para a disciplina de Programação Orientada a Objetos, da Universidade de Caxias do Sul (UCS).
 
 <br>
 <br>
